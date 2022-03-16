@@ -1,0 +1,299 @@
+{
+    "m_SelectedDeviceId": "a9a16b68",
+    "m_SelectedPackage": {
+        "deviceId": "J0AA002590J92901488",
+        "name": "com.beingai.zw",
+        "processId": 14637,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 31102,
+            "exited": true
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 3050,
+            "exited": true
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 23479,
+            "exited": true
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 30899,
+            "exited": true
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 11127,
+            "exited": true
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 12455,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 16951,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 19502,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 21316,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 23513,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 6152,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 29267,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 8879,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 10529,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 11181,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 11709,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 19001,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 20373,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 25069,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 10043,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 11916,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 17679,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 19929,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 25862,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 26613,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 5115,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 10364,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 19821,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 16190,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 4923,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 9345,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 14369,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 26615,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 28720,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 13999,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 14327,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.Akshay.ZeeTest",
+            "processId": 32253,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.beingai.zw",
+            "processId": 3257,
+            "exited": false
+        },
+        {
+            "deviceId": "J0AA002590J92901488",
+            "name": "com.beingai.zw",
+            "processId": 14637,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
